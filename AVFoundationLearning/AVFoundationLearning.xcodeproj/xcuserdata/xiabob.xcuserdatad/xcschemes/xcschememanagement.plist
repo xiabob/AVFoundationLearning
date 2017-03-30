@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AVFoundation-AVSpeechSynthesizer.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>AVFoundation-QRScanner.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>AVFoundation-VideoPlayer.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>AVFoundationLearning.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7425232E1E8A3EAA00B1DAF5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>74E22C9F1E88EC060038B515</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>74E22CB81E88EC5E0038B515</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>74E22CD11E88FEA70038B515</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
